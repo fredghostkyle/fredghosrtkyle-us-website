@@ -29,6 +29,7 @@ body {
   height: 100%;
 }
 body {
+  background-color: transparent;
   text-align: center;
   text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
 }
